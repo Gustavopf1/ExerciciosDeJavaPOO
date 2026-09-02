@@ -1,4 +1,4 @@
-package ComandosDeRepetição;
+package ComandosDeRepeticao;
 
 //1. Escreva um programa que leia 5 números inteiros
 //e, ao final, mostre a soma de todos os números digitados.
